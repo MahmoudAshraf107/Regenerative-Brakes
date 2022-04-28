@@ -1,2 +1,7 @@
 # Regenerative-Brakes
-Regenerative Brakes based om PMSM
+Regenerative Brakes based on PMSM
+Regenerative Brakes model which used to predict the generate electric power from the electromagnetic brakes to rechage the battery
+
+Copyright (c) 2022, Mahmoud Ashraf
+All rights reserved.
+
